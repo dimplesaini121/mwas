@@ -1,4 +1,4 @@
-mwas
+Mwas
 ====
 
-python,django ,html,css,javascript,php codes mostly.
+Python , Django , Html , Css , Javascript and Php codes mostly.
